@@ -52,6 +52,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" />&nbsp;
 </div>
 
+### 🔥 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=acronimax&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acronimax&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ##  Blog Post <img src="https://media.giphy.com/media/sc9RL9C30BlRGjoINX/giphy.gif" width="30" />
 
 - [Security](https://dev.to/acronimax/add-security-when-build-mobile-apps-18h1)
