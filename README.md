@@ -18,13 +18,13 @@
 - 👨🏾‍💻 I’m working as a Mobile Developer but also leading the frontend team.
 - 🔭 Exploring technical content writing.
 
-## Languages and Tools <img src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif" width="40" />
+## Languages and Tools <img src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif" width="40" alt="lang tool icon" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,angular,tailwind,laravel,express,wordpress)](https://skillicons.dev)
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acronimax&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-##  Blog Post <img src="https://media.giphy.com/media/jTUai5xFuOj9gmG981/giphy.gif" width="40" />
+##  Blog Post <img src="https://media.giphy.com/media/jTUai5xFuOj9gmG981/giphy.gif" width="40" alt="blog icon" />
 
 - [Security](https://dev.to/acronimax/add-security-when-build-mobile-apps-18h1)
