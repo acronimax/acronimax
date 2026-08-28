@@ -22,7 +22,6 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acronimax&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ##  Blog Post <img src="https://media.giphy.com/media/jTUai5xFuOj9gmG981/giphy.gif" width="40" alt="blog icon" />
 
 - [Security](https://dev.to/acronimax/add-security-when-build-mobile-apps-18h1)
